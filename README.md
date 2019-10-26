@@ -1,4 +1,4 @@
-### Furniture ecommerce website made in core php by Mandeep Singh
+## Furniture ecommerce website made in core php by Mandeep Singh
 
 ## Frontend
 
@@ -20,6 +20,7 @@
 
 ## Admin panel(Backend)
 
+![image](https://user-images.githubusercontent.com/29547937/67623125-76b96380-f83f-11e9-8272-5007ef5c977e.png)
 
 
 
